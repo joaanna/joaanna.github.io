@@ -64,7 +64,7 @@ twitter:
 author:
   name             : "Joanna Materzynska"
   avatar           : "JM_photo.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+#   bio              : "Your biography for the left-hand sidebar"
   googlescholar    : "https://scholar.google.co.uk/citations?user=kxqgE9cAAAAJ&hl=en&oi=ao"
   email            : "jomat@mit.edu"
   github           : "joaanna"
