@@ -19,7 +19,7 @@ I studied mathematics at the University of Vienna and The Autonomous University 
 
 
 <article>
-    <a class="pub_image"><img src="images/disentangling.jpg"></a>
+    <a class="pub_image"><img src="images/teaser.png"></a>
     <div class="pub_text">
         <h3>Disentangling visual and written concepts in CLIP</h3>
         <h3>CVPR 2022 (Oral)</h3>
