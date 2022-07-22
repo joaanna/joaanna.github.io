@@ -20,11 +20,11 @@ I studied mathematics at the University of Vienna and The Autonomous University 
 
 <article>
     <a class="pub_image"><img src="images/teaser.png"></a>
-    <div class="pub_text">
+    <div class="pub_text" style="display:inline-block;">
         <h3>Disentangling visual and written concepts in CLIP</h3>
         <h3>CVPR 2022 (Oral)</h3>
         <h4 class="authors">
-            <b>Joanna Materzynska</b>, Antonio Torralba, David Bau
+          <b>Joanna Materzynska</b>, Antonio Torralba, David Bau
         </h4>
         [<a href="https://arxiv.org/abs/2206.07835">paper</a>]
         [<a href="https://github.com/joaanna/disentangling_spelling_in_clip">code</a>]
