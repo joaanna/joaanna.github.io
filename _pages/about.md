@@ -16,14 +16,13 @@ I studied mathematics at the University of Vienna and The Autonomous University 
 # Publications
 
 
-Joanna Materzynska*, Antonio Torralba, David Bau
-CVPR 2022 (Oral)
 
-[paper] [code]
+
 <article>
-    <a class="pub_image"><img src="files/publications/4_uprightness_invariants/snapshot.gif"></a>
+    <a class="pub_image"><img src="images/disentangling.jpg"></a>
     <div class="pub_text">
         <h3>Disentangling visual and written concepts in CLIP</h3>
+        <h3>CVPR 2022 (Oral)</h3>
         <h4 class="authors">
             <b>Joanna Materzynska</b>, Antonio Torralba, David Bau
         </h4>
