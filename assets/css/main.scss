@@ -34,6 +34,29 @@
 @import "archive";
 @import "sidebar";
 
+
+#publications article  {
+    overflow: hidden;
+    width: 100%;
+}
+
+#publications article a img{
+    background-color: black;
+    width: 30%;
+    float: left;
+}
+
+
+#publications article .pub_text{
+    width: 67%;
+    margin-left: 3%;
+    float: left;
+}
+
+#intro {
+    width: 70%;
+}
+
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
