@@ -23,7 +23,7 @@ CVPR 2022 (Oral)
 <article>
     <a class="pub_image"><img src="files/publications/4_uprightness_invariants/snapshot.gif"></a>
     <div class="pub_text">
-        <h3>Height and Uprightness Invariance for 3D Prediction From a Single View</h3>
+        <h3>Disentangling visual and written concepts in CLIP</h3>
         <h4 class="authors">
             <b>Joanna Materzynska</b>, Antonio Torralba, David Bau
         </h4>
