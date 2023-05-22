@@ -1,7 +1,6 @@
 ---
 title: "The synthia dataset: A large collection of synthetic images for semantic segmentation of urban scenes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Vision-based semantic segmentation in urban scenarios is
 a key functionality for autonomous driving. Recent revolutionary results of deep convolutional neural networks (DCNNs) foreshadow the advent of reliable classifiers to perform such visual tasks. However, DCNNs require learning
 of many parameters from raw images; thus, having a sufficient amount of diverse images with class annotations is
@@ -16,16 +15,9 @@ with publicly available real-world urban images with manually provided annotatio
 with DCNNs that show how the inclusion of SYNTHIA in the
 training stage significantly improves performance on the semantic segmentation task.'
 date: 2016-06-27
-venue: 'CVPR 2016'
+venue: 'Computer Vision and Pattern Recognition'
 paperurl: '(https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 [Download paper here](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf)
 
-Recommended citation: @inproceedings{ros2016synthia,
-  title={The synthia dataset: A large collection of synthetic images for semantic segmentation of urban scenes},
-  author={Ros, German and Sellart, Laura and Materzynska, Joanna and Vazquez, David and Lopez, Antonio M},
-  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
-  pages={3234--3243},
-  year={2016}
-}
