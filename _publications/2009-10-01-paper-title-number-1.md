@@ -17,7 +17,6 @@ training stage significantly improves performance on the semantic segmentation t
 date: 2016-06-27
 venue: 'Computer Vision and Pattern Recognition'
 paperurl: '(https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf)'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 [Download paper here](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf)
 
