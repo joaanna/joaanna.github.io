@@ -8,12 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am an 2nd year graduate student at MIT EECS advised by Prof. Antonio Torralba.  In my research, I aim to explore in-depth the capabilities of using multiple modalities of information, few shot-learning, transfer learning, and semi-supervised learning. The questions that I seek to answer are: how to model the real world, how to leverage data in intelligent systems to be able to generalize to new environments, how to deal with sparse data, what can we achieve with transfer learning and few-shot learning? 
+I am pursuing doctoral studies at the Electrical Engineering and Computer Science (EECS) Department at MIT, under the supervision of Prof. Antonio Torralba. My research interests are primarily focused on interpretability and generative AI. Check out my [publications](https://joaanna.github.io/publications/)!
 
-I studied mathematics at the University of Vienna and The Autonomous University of Barcelona. After finishing my studies I had the pleasure to work at [Twenty Billion Neurons](https://20bn.com/) as an A.I. Engineer. More recently I graduated from a MSc in Computer Science at the University of Oxford and did a research internship at the Torr Vision Group.
+Before embarking on my PhD journey, I completed undergraduate studies in Mathematics at the University of Vienna and The Autonomous University of Barcelona. Following this, I gained industry exposure as an AI Engineer at Twenty Billion Neurons, which was subsequently acquired by Qualcomm. Furthering my academic pursuits, I completed a Master of Science (MSc) degree in Computer Science from the University of Oxford and had the opportunity to contribute as a research intern at the Torr Vision Group.
+
+In addition to my academic and professional commitments, I actively participate in the academic community by serving as a reviewer for a number of esteemed conferences and journals, including ICCV (2021, 2023), CVPR (2022, 2023), ICLR (2022), NeurIPS (2021), TPAMI, and IJCV.
 
 ------------------
-# Publications
+# News
+
+## 2023
+
+- **May**: Our paper "Erasing Concepts from Diffusion Models" has been chosen for a spotlight presentation at the [Machine Learning Advances Symposium](https://mlas.mit.edu/).
+
+## 2022
+- **July**: Proud to have won the second place of the poster competition at the [International Computer Vision Summer School](https://iplab.dmi.unict.it/icvss2022/CallForPosters) .
+- **June**: Our paper "Disentangling visual and written concepts in CLIP" got awarded an Oral  (~4% acceptance rate) at CVPR 22' in New Orleans.
+
+
+# Selected Publications
 
 
 
