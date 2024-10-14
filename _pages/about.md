@@ -18,6 +18,10 @@ In addition to my academic and professional commitments, I actively participate 
 # News
 
 ## 2024
+- **October** Our work "NewMove: Customizing text-to-video models with novel motions" was accepted at ACCV 2024!
+- Our work "Concept sliders: Lora adaptors for precise control in diffusion models" was presented at ECCV 2024!
+- We presented our paper "AirLetters: An Open Video Dataset of Characters Drawn in the Air" at HANDS Workshop in ECCV 2024!
+- The [work](https://www.dataprovenance.org/consent-in-crisis-paper) in collaboration with the Data Provenance Initiative got accepted at Neurips 2024! 
 - **April** Our workshop [Text, Camera, Action!
 Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicml2024) got accepted at the ICML 2024' Conference in Vienna!
 - **February** Honoured to be invited as a speaker at the [Rising Stars in AI Symposium 2024
