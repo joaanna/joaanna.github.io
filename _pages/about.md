@@ -39,8 +39,6 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 - **June-August** I was fortunate to intern at Netflix Research under the supervision of Mahdi M Kalayeh
 
 
-# Publications
-
 <div><h1>Publications</h1></div>
 <div id="publications">
     <article class="pub">
@@ -55,6 +53,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
         [<a href="https://github.com/joaanna/disentangling_spelling_in_clip">code</a>]
         </div>
     </article>
+  </div>
 
 ------------------
-###### To learn more about Captioning & Accessibility resources at the MIT please refer to the [website](https://accessibility.mit.edu/).
+### To learn more about Captioning & Accessibility resources at the MIT please refer to the [website](https://accessibility.mit.edu/).
