@@ -54,7 +54,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     </article>
 
     <article class="pub">
-        <a class="pub_image"><img src="images/teaser.png" style="background-color: transparent;"></a>
+        <a class="pub_image"><img src="images/synthia.jpg" style="background-color: transparent;"></a>
         <div class="pub_text">
             <h3 class="papertitle">The SYNTHIA dataset: A large collection of synthetic images for semantic segmentation of urban scenes</h3>
             <h4 class="authors" style="font-weight: normal;">
