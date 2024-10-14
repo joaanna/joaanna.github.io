@@ -38,7 +38,6 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 - **June**: Our paper "Disentangling visual and written concepts in CLIP" got awarded an Oral  (~4% acceptance rate) at CVPR 22' in New Orleans.
 - **June-August** I was fortunate to intern at Netflix Research under the supervision of Mahdi M Kalayeh
 
-
 <div><h1>Publications</h1></div>
 <div id="publications">
     <article class="pub">
@@ -49,11 +48,25 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
                  <b>Joanna Materzynska</b>, Antonio Torralba, David Bau
             </h4>
             <p class="conference">CVPR 2022 (Oral)</p>
-        [<a href="https://arxiv.org/abs/2206.07835">paper</a>]
-        [<a href="https://github.com/joaanna/disentangling_spelling_in_clip">code</a>]
+            [<a href="https://arxiv.org/abs/2206.07835">paper</a>]
+            [<a href="https://github.com/joaanna/disentangling_spelling_in_clip">code</a>]
         </div>
     </article>
-  </div>
+
+    <article class="pub">
+        <a class="pub_image"><img src="images/teaser.png" style="background-color: transparent;"></a>
+        <div class="pub_text">
+            <h3 class="papertitle">The SYNTHIA dataset: A large collection of synthetic images for semantic segmentation of urban scenes</h3>
+            <h4 class="authors" style="font-weight: normal;">
+                German Ros, Laura Sellart, <b>Joanna Materzynska</b>, David Vazquez, Antonio M Lopez
+            </h4>
+            <p class="conference">CVPR 2016</p>
+            [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf">paper</a>]
+        </div>
+    </article>
+</div>
+
+
 
 ------------------
 ### To learn more about Captioning & Accessibility resources at the MIT please refer to the [website](https://accessibility.mit.edu/).
