@@ -42,10 +42,10 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 <div><h1>Publications</h1></div>
 <div id="publications">
     <article class="pub">
-        <a classa="pub_image"><img src="images/teaser.png"></a>
+        <a class="pub_image"><img src="images/teaser.png"></a>
         <div class="pub_text">
             <h3 class="papertitle">Disentangling visual and written concepts in CLIP</h3>
-            <h4 class="authors">
+            <h4 class="authors" style="font-weight: normal;">
                  <b>Joanna Materzynska</b>, Antonio Torralba, David Bau
             </h4>
             <p class="conference">CVPR 2022 (Oral)</p>
