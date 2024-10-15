@@ -59,7 +59,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 
 <article style="display: flex; align-items: center; margin-bottom: 20px;">
     <a style="margin-right: 15px;">
-        <img src="images/reenacting.png" style="max-width: 150px; height: auto; background-color: transparent;">
+        <img src="images/reenacting.png" style="width: 30%; height: auto; background-color: transparent;">
     </a>
     <div>
         <h3>Re-enacting video shots with fictional characters</h3>
