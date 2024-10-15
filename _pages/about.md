@@ -43,7 +43,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 
 <div><h1>Publications</h1></div>
 <div id="publications">
-<article class="pub" style="margin-bottom: 10px;">
+<article class="pub">
   <a classa="pub_image">
     <img src="images/motion.png" alt="" style="background-color: transparent;">
   </a>
@@ -52,7 +52,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     <h4 class="authors" style="font-weight: normal;">
         <b>Joanna Materzyńska</b>, Josef Sivic, Eli Shechtman, Antonio Torralba, Richard Zhang, Bryan Russell
     </h4>
-    <p class="conference">ACCV 2024</p>
+        <p class="conference">ACCV 2024</p>
         [<a href="https://joaanna.github.io/customizing_motion/" target="_blank">website</a>]
         [<a href="https://github.com/adobe-research/custom_motion" target="_blank">code</a>]
   </div>
@@ -65,7 +65,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     <h4 class="authors" style="font-weight: normal;">
        Shayne Longpre, Robert Mahari, Ariel Lee, Campbell Lund, Hamidah Oderinwale, William Brannon, Nayan Saxena, Naana Obeng-Marnu, Tobin South, Cole Hunter, Kevin Klyman, Christopher Klamm, Hailey Schoelkopf, Nikhil Singh, Manuel Cherep, Ahmad Anis, An Dinh, Caroline Chitongo, Da Yin, Damien Sileo, Deividas Mataciunas, Diganta Misra, Emad Alghamdi, Enrico Shippole, Jianguo Zhang, <b>Joanna Materzyńska</b>, Kun Qian, Kush Tiwary, Lester Miranda, Manan Dey, Minnie Liang, Mohammed Hamdy, Niklas Muennighoff, Seonghyeon Ye, Seungone Kim, Shrestha Mohanty, Vipul Gupta, Vivek Sharma, Vu Minh Chien, Xuhui Zhou, Yizhi Li, Caiming Xiong, Luis Villa, Stella Biderman, Hanlin Li, Daphne Ippolito, Sara Hooker, Jad Kabbara, Sandy Pentland
     </h4>
-    <p>NeurIPS 2024 Track on Datasets and Benchmarks</p>
+    <p class="conference">NeurIPS 2024 Track on Datasets and Benchmarks</p>
         [<a href="https://arxiv.org/pdf/2407.14933">paper</a>]
   </div>
 </article>
@@ -78,7 +78,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     <h4 class="authors" style="font-weight: normal;">
         Rishit Dagli, Guillaume Berger, <b>Joanna Materzyńska</b>, Ingo Bax, Roland Memisevic
     </h4>
-    <p>ECCVW 2024 HANDS Workshop </p>
+    <p class="conference">ECCVW 2024 HANDS Workshop </p>
         [<a href="https://arxiv.org/pdf/2410.02921">paper</a>]
   </div>
 </article>
@@ -90,7 +90,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     <h4 class="authors" style="font-weight: normal;">
         Rohit Gandikota, <b>Joanna Materzyńska</b>, David Bau, Antonio Torralba
     </h4>
-    <p>ECCV 2024 </p>
+    <p class="conference">ECCV 2024 </p>
         [<a href="https://arxiv.org/pdf/2311.12092">paper</a>]
         [<a href="https://github.com/rohitgandikota/sliders">code</a>]
   </div>
@@ -103,7 +103,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     <h4 class="authors" style="font-weight: normal;">
       Rohit Gandikota, Hadas Orgad, Yonatan Belinkov, <b>Joanna Materzyńska</b>, David Bau
     </h4>
-    <p>WACV 2024 </p>
+    <p class="conference">WACV 2024 </p>
     [<a href="https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf">paper</a>]
     [<a href="https://github.com/rohitgandikota/unified-concept-editing">code</a>]
   </div>
@@ -116,7 +116,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     <h4 class="authors" style="font-weight: normal;">
         Sarah Schwettmann, Tamar Shaham, <b>Joanna Materzyńska</b>, Neil Chowdhury, Shuang Li, Jacob Andreas, David Bau, Antonio Torralba
     </h4>
-    <p>NeurIPS 2023 Track on Datasets and Benchmarks </p>
+    <p class="conference">NeurIPS 2023 Track on Datasets and Benchmarks </p>
         [<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/ef0164c1112f56246224af540857348f-Paper-Datasets_and_Benchmarks.pdf">paper</a>]
         [<a href="https://github.com/multimodal-interpretability/FIND">code</a>]
   </div>
@@ -130,7 +130,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     <h4 class="authors" style="font-weight: normal;">
       <b>Joanna Materzyńska</b>, Rohit Gandikota*, Jaden Fiotto-Kaufman, David Bau
     </h4>
-    <p>ICCV 2023 </p>
+    <p class="conference">ICCV 2023 </p>
       [<a href="https://arxiv.org/pdf/2303.07345">paper</a>]
       [<a href="https://github.com/rohitgandikota/erasing">code</a>]
   </div>
@@ -219,6 +219,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
       [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf">paper</a>]
   </div>
 </article>
+
 </div>
 
 
