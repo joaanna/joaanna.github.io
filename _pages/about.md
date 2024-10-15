@@ -41,8 +41,47 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 
 
 
-
 <div><h1>Publications</h1></div>
+
+<article class="pub">
+  <a class="pub_image"><img src="images/motion.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">NewMove: Customizing text-to-video models with novel motions
+</h3>
+    <h4 class="authors" style="font-weight: normal;">
+        <b>Joanna Materzyńska</b>, Josef Sivic, Eli Shechtman, Antonio Torralba, Richard Zhang, Bryan Russell
+    </h4>
+    <p>ACCV 2024</p>
+        [<a href="https://joaanna.github.io/customizing_motion/">website</a>]
+        [<a href="https://github.com/adobe-research/custom_motion">code</a>]
+
+  </div>
+</article>
+
+<article class="pub">
+  <a class="pub_image"><img src="images/dpi.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">Consent in Crisis: The Rapid Decline of the AI Data Commons</h3>
+    <h4 class="authors" style="font-weight: normal;">
+       Shayne Longpre, Robert Mahari, Ariel Lee, Campbell Lund, Hamidah Oderinwale, William Brannon, Nayan Saxena, Naana Obeng-Marnu, Tobin South, Cole Hunter, Kevin Klyman, Christopher Klamm, Hailey Schoelkopf, Nikhil Singh, Manuel Cherep, Ahmad Anis, An Dinh, Caroline Chitongo, Da Yin, Damien Sileo, Deividas Mataciunas, Diganta Misra, Emad Alghamdi, Enrico Shippole, Jianguo Zhang, <b>Joanna Materzyńska</b>, Kun Qian, Kush Tiwary, Lester Miranda, Manan Dey, Minnie Liang, Mohammed Hamdy, Niklas Muennighoff, Seonghyeon Ye, Seungone Kim, Shrestha Mohanty, Vipul Gupta, Vivek Sharma, Vu Minh Chien, Xuhui Zhou, Yizhi Li, Caiming Xiong, Luis Villa, Stella Biderman, Hanlin Li, Daphne Ippolito, Sara Hooker, Jad Kabbara, Sandy Pentland
+    </h4>
+    <p>NeurIPS 2024 Track on Datasets and Benchmarks</p>
+        [<a href="https://arxiv.org/pdf/2407.14933">paper</a>]
+  </div>
+</article>
+
+
+<article class="pub">
+  <a class="pub_image"><img src="images/airletters.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">AirLetters: An Open Video Dataset of Characters Drawn in the Air</h3>
+    <h4 class="authors" style="font-weight: normal;">
+        Rishit Dagli, Guillaume Berger, <b>Joanna Materzyńska</b>, Ingo Bax, Roland Memisevic
+    </h4>
+    <p>ECCVW 2024 HANDS Workshop </p>
+        [<a href="https://arxiv.org/pdf/2410.02921">paper</a>]
+  </div>
+</article>
 
 <article class="pub">
   <a class="pub_image"><img src="images/sliders.png" style="background-color: transparent;"></a>
@@ -65,11 +104,23 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
       Rohit Gandikota, Hadas Orgad, Yonatan Belinkov, <b>Joanna Materzyńska</b>, David Bau
     </h4>
     <p>WACV 2024 </p>
-    [<a> href="https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf">paper</a>]
+    [<a href="https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf">paper</a>]
     [<a href="https://github.com/rohitgandikota/unified-concept-editing">code</a>]
   </div>
 </article>
 
+<article class="pub">
+  <a class="pub_image"><img src="images/find.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">Find: A function description benchmark for evaluating interpretability methods</h3>
+    <h4 class="authors" style="font-weight: normal;">
+        Sarah Schwettmann, Tamar Shaham, <b>Joanna Materzyńska</b>, Neil Chowdhury, Shuang Li, Jacob Andreas, David Bau, Antonio Torralba
+    </h4>
+    <p>NeurIPS 2023 Track on Datasets and Benchmarks </p>
+        [<a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/ef0164c1112f56246224af540857348f-Paper-Datasets_and_Benchmarks.pdf">paper</a>]
+        [<a href="https://github.com/multimodal-interpretability/FIND">code</a>]
+  </div>
+</article>
 
 
   <article class="pub">
@@ -110,7 +161,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
             <h4 class="authors" style="font-weight: normal;">
                  <b>Joanna Materzynska</b>, David Bau, Antonio Torralba
             </h4>
-            <p class="conference">ICCV 2021 CVEU Workshop (Spotlight) </p>
+            <p class="conference">ICCVW 2021 CVEU Workshop (Spotlight) </p>
             [<a href="https://cveu.github.io/src/re_enacting.pdf">paper</a>]
         </div>
     </article>
