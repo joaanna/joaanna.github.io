@@ -38,6 +38,10 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 - **June**: Our paper "Disentangling visual and written concepts in CLIP" got awarded an Oral  (~4% acceptance rate) at CVPR 22' in New Orleans.
 - **June-August** I was fortunate to intern at Netflix Research under the supervision of Mahdi M Kalayeh
 
+
+
+
+
 <div><h1>Publications</h1></div>
 <div id="publications">
     <article class="pub">
@@ -47,9 +51,35 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
             <h4 class="authors" style="font-weight: normal;">
                  <b>Joanna Materzynska</b>, Antonio Torralba, David Bau
             </h4>
-            <p class="conference">CVPR 2022 (Oral)</p>
+            <p class="conference">CVPR 2022 <b>(Oral)</b>b></p>
             [<a href="https://arxiv.org/abs/2206.07835">paper</a>]
             [<a href="https://github.com/joaanna/disentangling_spelling_in_clip">code</a>]
+        </div>
+    </article>
+
+      <article class="pub">
+        <a class="pub_image"><img src="images/jester.png" style="background-color: transparent;"></a>
+        <div class="pub_text">
+            <h3 class="papertitle">The jester dataset: A large-scale video dataset of human gestures</h3>
+            <h4 class="authors" style="font-weight: normal;">
+                <b>Joanna Materzyńska</b> Guillaume Berger, Ingo Bax, Roland Memisevic
+            </h4>
+            <p class="conference">ICCVW 2019 HANDS Workshop</p>
+            [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HANDS/Materzynska_The_Jester_Dataset_A_Large-Scale_Video_Dataset_of_Human_Gestures_ICCVW_2019_paper.pdf">paper</a>]
+            [<a href="https://www.qualcomm.com/developer/software/jester-dataset">dataset</a>]
+        </div>
+    </article>
+
+    <article class="pub">
+        <a class="pub_image"><img src="images/smthsmth.png" style="background-color: transparent;"></a>
+        <div class="pub_text">
+            <h3 class="papertitle">The "something something" video database for learning and evaluating visual common sense</h3>
+            <h4 class="authors" style="font-weight: normal;">
+                Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, <b>Joanna Materzyńska</b>, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fruend, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic
+            </h4>
+            <p class="conference">ICCV 2017</p>
+            [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf">paper</a>]
+            [<a href="https://www.qualcomm.com/developer/software/something-something-v-2-dataset">dataset</a>]
         </div>
     </article>
 
