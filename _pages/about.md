@@ -60,7 +60,6 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 </article>
 
 <article class="pub">
-  <a class="pub_image"><img src="images/dpi.png" style="background-color: transparent;"></a>
   <div class="pub_text">
     <h3 class="papertitle">Consent in Crisis: The Rapid Decline of the AI Data Commons</h3>
     <h4 class="authors" style="font-weight: normal;">
@@ -137,6 +136,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
   </div>
 </article>
 
+
 <article class="pub">
   <a class="pub_image"><img src="images/teaser.png" style="background-color: transparent;"></a>
   <div class="pub_text">
@@ -165,7 +165,6 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
   </div>
 </article>
 
-    
 
 <article class="pub">
   <a class="pub_image"><img src="images/smthelse.png" style="background-color: transparent;"></a>
@@ -180,6 +179,8 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
       [<a href="https://joaanna.github.io/something_else/">website</a>]
   </div>
 </article>
+
+
 
 <article class="pub">
   <a class="pub_image"><img src="images/jester.jpeg" style="background-color: transparent;"></a>
