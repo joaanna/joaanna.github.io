@@ -60,6 +60,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 </article>
 
 <article class="pub">
+  <a class="pub_image"><img src="images/dpi.png" style="background-color: transparent;"></a>
   <div class="pub_text">
     <h3 class="papertitle">Consent in Crisis: The Rapid Decline of the AI Data Commons</h3>
     <h4 class="authors" style="font-weight: normal;">
