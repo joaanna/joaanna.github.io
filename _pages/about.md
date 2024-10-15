@@ -123,103 +123,100 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 </article>
 
 
-  <article class="pub">
-        <a class="pub_image"><img src="images/erasing.png" style="background-color: transparent;"></a>
-             <div class="pub_text">
-            <h3 class="papertitle">Erasing Concepts from Diffusion Models</h3>
-            <h4 class="authors" style="font-weight: normal;">
-            <b>Joanna Materzyńska</b>, Rohit Gandikota*, Jaden Fiotto-Kaufman, David Bau
-        </h4>
-        <p>ICCV 2023 </p>
-        [<a href="https://arxiv.org/pdf/2303.07345">paper</a>]
-        [<a href="https://github.com/rohitgandikota/erasing">code</a>]
-    </div>
+<article class="pub">
+  <a class="pub_image"><img src="images/erasing.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">Erasing Concepts from Diffusion Models</h3>
+    <h4 class="authors" style="font-weight: normal;">
+      <b>Joanna Materzyńska</b>, Rohit Gandikota*, Jaden Fiotto-Kaufman, David Bau
+    </h4>
+    <p>ICCV 2023 </p>
+      [<a href="https://arxiv.org/pdf/2303.07345">paper</a>]
+      [<a href="https://github.com/rohitgandikota/erasing">code</a>]
+  </div>
 </article>
 
-
-<div id="publications">
-    <article class="pub">
-        <a class="pub_image"><img src="images/teaser.png" style="background-color: transparent;"></a>
-        <div class="pub_text">
-            <h3 class="papertitle">Disentangling visual and written concepts in CLIP</h3>
-            <h4 class="authors" style="font-weight: normal;">
-                 <b>Joanna Materzyńska</b>, Antonio Torralba, David Bau
-            </h4>
-            <p class="conference">CVPR 2022 <b>(Oral)</b></p>
-            [<a href="https://arxiv.org/abs/2206.07835">paper</a>]
-            [<a href="https://github.com/joaanna/disentangling_spelling_in_clip">code</a>]
-        </div>
-    </article>
+<article class="pub">
+  <a class="pub_image"><img src="images/teaser.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">Disentangling visual and written concepts in CLIP</h3>
+    <h4 class="authors" style="font-weight: normal;">
+      <b>Joanna Materzyńska</b>, Antonio Torralba, David Bau
+    </h4>
+    <p class="conference">CVPR 2022 <b>(Oral)</b></p>
+      [<a href="https://arxiv.org/abs/2206.07835">paper</a>]
+      [<a href="https://github.com/joaanna/disentangling_spelling_in_clip">code</a>]
+  </div>
+</article>
 
 
 
 
 <article class="pub">
-        <a class="pub_image"><img src="images/reenacting.png" style="background-color: transparent;"></a>
-        <div class="pub_text">
-            <h3 class="papertitle">Re-enacting video shots with fictional characters</h3>
-            <h4 class="authors" style="font-weight: normal;">
-                 <b>Joanna Materzynska</b>, David Bau, Antonio Torralba
-            </h4>
-            <p class="conference">ICCVW 2021 CVEU Workshop (Spotlight) </p>
-            [<a href="https://cveu.github.io/src/re_enacting.pdf">paper</a>]
-        </div>
-    </article>
+  <a class="pub_image"><img src="images/reenacting.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">Re-enacting video shots with fictional characters</h3>
+    <h4 class="authors" style="font-weight: normal;">
+      <b>Joanna Materzynska</b>, David Bau, Antonio Torralba
+    </h4>
+    <p class="conference">ICCVW 2021 CVEU Workshop (Spotlight) </p>
+      [<a href="https://cveu.github.io/src/re_enacting.pdf">paper</a>]
+  </div>
+</article>
 
     
 
-  <article class="pub">
-        <a class="pub_image"><img src="images/smthelse.png" style="background-color: transparent;"></a>
-        <div class="pub_text">
-            <h3 class="papertitle">Something-else: Compositional action recognition with spatial-temporal interaction networks</h3>
-            <h4 class="authors" style="font-weight: normal;">
-                <b>Joanna Materzyńska</b> Tete Xiao, Roei Herzig, Huijuan Xu, Xiaolong Wang, Trevor Darrell
+<article class="pub">
+  <a class="pub_image"><img src="images/smthelse.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">Something-else: Compositional action recognition with spatial-temporal interaction networks</h3>
+    <h4 class="authors" style="font-weight: normal;">
+      <b>Joanna Materzyńska</b> Tete Xiao, Roei Herzig, Huijuan Xu, Xiaolong Wang, Trevor Darrell
+    </h4>
+    <p class="conference">CVPR 2020</p>
+      [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Materzynska_Something-Else_Compositional_Action_Recognition_With_Spatial-Temporal_Interaction_Networks_CVPR_2020_paper.pdf">paper</a>]
+      [<a href="https://github.com/joaanna/something_else">code</a>]
+      [<a href="https://joaanna.github.io/something_else/">website</a>]
+  </div>
+</article>
 
-            </h4>
-            <p class="conference">CVPR 2020</p>
-            [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Materzynska_Something-Else_Compositional_Action_Recognition_With_Spatial-Temporal_Interaction_Networks_CVPR_2020_paper.pdf">paper</a>]
-            [<a href="https://github.com/joaanna/something_else">code</a>]
-            [<a href="https://joaanna.github.io/something_else/">website</a>]
-        </div>
-  </article>
+<article class="pub">
+  <a class="pub_image"><img src="images/jester.jpeg" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">The jester dataset: A large-scale video dataset of human gestures</h3>
+    <h4 class="authors" style="font-weight: normal;">
+      <b>Joanna Materzyńska</b> Guillaume Berger, Ingo Bax, Roland Memisevic
+    </h4>
+    <p class="conference">ICCVW 2019 HANDS Workshop</p>
+      [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HANDS/Materzynska_The_Jester_Dataset_A_Large-Scale_Video_Dataset_of_Human_Gestures_ICCVW_2019_paper.pdf">paper</a>]
+      [<a href="https://www.qualcomm.com/developer/software/jester-dataset">dataset</a>]
+</div>
+</article>
 
-      <article class="pub">
-        <a class="pub_image"><img src="images/jester.jpeg" style="background-color: transparent;"></a>
-        <div class="pub_text">
-            <h3 class="papertitle">The jester dataset: A large-scale video dataset of human gestures</h3>
-            <h4 class="authors" style="font-weight: normal;">
-                <b>Joanna Materzyńska</b> Guillaume Berger, Ingo Bax, Roland Memisevic
-            </h4>
-            <p class="conference">ICCVW 2019 HANDS Workshop</p>
-            [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HANDS/Materzynska_The_Jester_Dataset_A_Large-Scale_Video_Dataset_of_Human_Gestures_ICCVW_2019_paper.pdf">paper</a>]
-            [<a href="https://www.qualcomm.com/developer/software/jester-dataset">dataset</a>]
-        </div>
-    </article>
+<article class="pub">
+  <a class="pub_image"><img src="images/smthsmth.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">The "something something" video database for learning and evaluating visual common sense</h3>
+    <h4 class="authors" style="font-weight: normal;">
+        Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, <b>Joanna Materzyńska</b>, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fruend, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic
+    </h4>
+    <p class="conference">ICCV 2017</p>
+      [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf">paper</a>]
+      [<a href="https://www.qualcomm.com/developer/software/something-something-v-2-dataset">dataset</a>]
+  </div>
+</article>
 
-    <article class="pub">
-        <a class="pub_image"><img src="images/smthsmth.png" style="background-color: transparent;"></a>
-        <div class="pub_text">
-            <h3 class="papertitle">The "something something" video database for learning and evaluating visual common sense</h3>
-            <h4 class="authors" style="font-weight: normal;">
-                Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, <b>Joanna Materzyńska</b>, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fruend, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic
-            </h4>
-            <p class="conference">ICCV 2017</p>
-            [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf">paper</a>]
-            [<a href="https://www.qualcomm.com/developer/software/something-something-v-2-dataset">dataset</a>]
-        </div>
-    </article>
-
-    <article class="pub">
-        <a class="pub_image"><img src="images/synthia.jpg" style="background-color: transparent;"></a>
-        <div class="pub_text">
-            <h3 class="papertitle">The SYNTHIA dataset: A large collection of synthetic images for semantic segmentation of urban scenes</h3>
-            <h4 class="authors" style="font-weight: normal;">
-                German Ros, Laura Sellart, <b>Joanna Materzyńska</b>, David Vazquez, Antonio M Lopez
-            </h4>
-            <p class="conference">CVPR 2016</p>
-            [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf">paper</a>]
-        </div>
-    </article>
+<article class="pub">
+  <a class="pub_image"><img src="images/synthia.jpg" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">The SYNTHIA dataset: A large collection of synthetic images for semantic segmentation of urban scenes</h3>
+    <h4 class="authors" style="font-weight: normal;">
+      German Ros, Laura Sellart, <b>Joanna Materzyńska</b>, David Vazquez, Antonio M Lopez
+    </h4>
+    <p class="conference">CVPR 2016</p>
+      [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf">paper</a>]
+  </div>
+</article>
 </div>
 
 
