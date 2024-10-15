@@ -43,6 +43,49 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 
 
 <div><h1>Publications</h1></div>
+
+<article class="pub">
+  <a class="pub_image"><img src="images/sliders.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">Concept sliders: Lora adaptors for precise control in diffusion models</h3>
+    <h4 class="authors" style="font-weight: normal;">
+        Rohit Gandikota, <b>Joanna Materzyńska</b>, David Bau, Antonio Torralba
+    </h4>
+    <p>ECCV 2024 </p>
+        [<a href="https://arxiv.org/pdf/2311.12092">paper</a>]
+        [<a href="https://github.com/rohitgandikota/sliders">code</a>]
+  </div>
+</article>
+
+<article class="pub">
+  <a class="pub_image"><img src="images/uce.png" style="background-color: transparent;"></a>
+  <div class="pub_text">
+    <h3 class="papertitle">Unified concept editing in diffusion models</h3>
+    <h4 class="authors" style="font-weight: normal;">
+      Rohit Gandikota, Hadas Orgad, Yonatan Belinkov, <b>Joanna Materzyńska</b>, David Bau
+    </h4>
+    <p>WACV 2024 </p>
+   [<a>href="https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf">paper</a>]
+    [<a href="https://github.com/rohitgandikota/unified-concept-editing">code</a>]
+  </div>
+</article>
+
+
+
+  <article class="pub">
+        <a class="pub_image"><img src="images/erasing.png" style="background-color: transparent;"></a>
+             <div class="pub_text">
+            <h3 class="papertitle">Erasing Concepts from Diffusion Models</h3>
+            <h4 class="authors" style="font-weight: normal;">
+            <b>Joanna Materzyńska</b>, Rohit Gandikota*, Jaden Fiotto-Kaufman, David Bau
+        </h4>
+        <p>ICCV 2023 </p>
+        [<a href="https://arxiv.org/pdf/2303.07345">paper</a>]
+        [<a href="https://github.com/rohitgandikota/erasing">code</a>]
+    </div>
+</article>
+
+
 <div id="publications">
     <article class="pub">
         <a class="pub_image"><img src="images/teaser.png" style="background-color: transparent;"></a>
@@ -57,19 +100,6 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
         </div>
     </article>
 
-
-    <article class="pub">
-        <a class="pub_image"><img src="images/erasing.png" style="background-color: transparent;"></a>
-             <div class="pub_text">
-            <h3 class="papertitle">Erasing Concepts from Diffusion Models</h3>
-            <h4 class="authors" style="font-weight: normal;">
-            <b>Joanna Materzyńska</b>, Rohit Gandikota*, Jaden Fiotto-Kaufman, David Bau
-        </h4>
-        <p>ICCV 2023 </p>
-        [<a href="https://arxiv.org/pdf/2303.07345">paper</a>]
-        [<a href="https://github.com/rohitgandikota/erasing">code</a>]
-    </div>
-    </article>
 
 
 
@@ -87,7 +117,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 
     
 
-      <article class="pub">
+  <article class="pub">
         <a class="pub_image"><img src="images/smthelse.png" style="background-color: transparent;"></a>
         <div class="pub_text">
             <h3 class="papertitle">Something-else: Compositional action recognition with spatial-temporal interaction networks</h3>
@@ -100,7 +130,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
             [<a href="https://github.com/joaanna/something_else">code</a>]
             [<a href="https://joaanna.github.io/something_else/">website</a>]
         </div>
-    </article>
+  </article>
 
       <article class="pub">
         <a class="pub_image"><img src="images/jester.jpeg" style="background-color: transparent;"></a>
