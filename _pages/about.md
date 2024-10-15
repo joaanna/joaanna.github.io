@@ -65,7 +65,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
       Rohit Gandikota, Hadas Orgad, Yonatan Belinkov, <b>Joanna Materzyńska</b>, David Bau
     </h4>
     <p>WACV 2024 </p>
-   [<a>href="https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf">paper</a>]
+    [<a> href="https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf">paper</a>]
     [<a href="https://github.com/rohitgandikota/unified-concept-editing">code</a>]
   </div>
 </article>
