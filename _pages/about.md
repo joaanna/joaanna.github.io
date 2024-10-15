@@ -43,7 +43,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 
 <div><h1>Publications</h1></div>
 <div id="publications">
-<article class="pub">
+<article class="pub" style="margin-bottom: 20px;">
   <a classa="pub_image">
     <img src="images/motion.png" alt="" style="background-color: transparent;">
   </a>
