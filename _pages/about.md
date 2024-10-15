@@ -45,16 +45,17 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 <div id="publications">
 
 <article class="pub">
-  <a class="pub_image"><img src="images/motion.png" style="background-color: transparent;"></a>
+  <a class="pub_image">
+    <img src="images/newmove.png" alt="NewMove: Customizing text-to-video models with novel motions" style="background-color: transparent;">
+  </a>
   <div class="pub_text">
-    <h3 class="papertitle">NewMove: Customizing text-to-video models with novel motions
-</h3>
+    <h3 class="papertitle">NewMove: Customizing text-to-video models with novel motions</h3>
     <h4 class="authors" style="font-weight: normal;">
         <b>Joanna Materzyńska</b>, Josef Sivic, Eli Shechtman, Antonio Torralba, Richard Zhang, Bryan Russell
     </h4>
     <p>ACCV 2024</p>
-        [<a href="https://joaanna.github.io/customizing_motion/">website</a>]
-        [<a href="https://github.com/adobe-research/custom_motion">code</a>]
+        [<a href="https://joaanna.github.io/customizing_motion/" target="_blank">website</a>]
+        [<a href="https://github.com/adobe-research/custom_motion" target="_blank">code</a>]
   </div>
 </article>
 
