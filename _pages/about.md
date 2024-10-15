@@ -58,7 +58,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     </article>
 
       <article class="pub">
-        <a class="pub_image"><img src="images/jester.png" style="background-color: transparent;"></a>
+        <a class="pub_image"><img src="images/jester.jpeg" style="background-color: transparent;"></a>
         <div class="pub_text">
             <h3 class="papertitle">The jester dataset: A large-scale video dataset of human gestures</h3>
             <h4 class="authors" style="font-weight: normal;">
