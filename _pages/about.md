@@ -57,6 +57,19 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
         </div>
     </article>
 
+    <article class="pub">
+        <a class="pub_image"><img src="images/reenacting.png" style="background-color: transparent;"></a>
+        <div class="pub_text">
+            <h3 class="papertitle">Re-enacting video shots with fictional characters</h3>
+            <h4 class="authors" style="font-weight: normal;">
+                 <b>Joanna Materzynska</b>, David Bau, Antonio Torralba
+            </h4>
+            <p class="conference">ICCV 2021 CVEU Workshop</p>
+            [<a href="https://cveu.github.io/src/re_enacting.pdf">paper</a>]
+        </div>
+    </article>
+    
+
       <article class="pub">
         <a class="pub_image"><img src="images/smthelse.png" style="background-color: transparent;"></a>
         <div class="pub_text">
