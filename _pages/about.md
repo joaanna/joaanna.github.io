@@ -43,7 +43,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 
 <div><h1>Publications</h1></div>
 <div id="publications">
-<article class="pub" style="margin-bottom: 20px;">
+<article class="pub" style="margin-bottom: 10px;">
   <a classa="pub_image">
     <img src="images/motion.png" alt="" style="background-color: transparent;">
   </a>
@@ -52,7 +52,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     <h4 class="authors" style="font-weight: normal;">
         <b>Joanna Materzyńska</b>, Josef Sivic, Eli Shechtman, Antonio Torralba, Richard Zhang, Bryan Russell
     </h4>
-    <p>ACCV 2024</p>
+    <p class="conference">ACCV 2024</p>
         [<a href="https://joaanna.github.io/customizing_motion/" target="_blank">website</a>]
         [<a href="https://github.com/adobe-research/custom_motion" target="_blank">code</a>]
   </div>
