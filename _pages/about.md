@@ -51,7 +51,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
             <h4 class="authors" style="font-weight: normal;">
                  <b>Joanna Materzynska</b>, Antonio Torralba, David Bau
             </h4>
-            <p class="conference">CVPR 2022 <b>(Oral)</b>b></p>
+            <p class="conference">CVPR 2022 <b>(Oral)</b></p>
             [<a href="https://arxiv.org/abs/2206.07835">paper</a>]
             [<a href="https://github.com/joaanna/disentangling_spelling_in_clip">code</a>]
         </div>
