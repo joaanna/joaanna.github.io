@@ -38,7 +38,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 - **June**: Our paper "Disentangling visual and written concepts in CLIP" got awarded an Oral  (~4% acceptance rate) at CVPR 22' in New Orleans.
 - **June-August** I was fortunate to intern at Netflix Research under the supervision of Mahdi M Kalayeh
 
-
+------------------
 
 
 <div><h1>Publications</h1></div>
@@ -55,7 +55,6 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
     <p>ACCV 2024</p>
         [<a href="https://joaanna.github.io/customizing_motion/">website</a>]
         [<a href="https://github.com/adobe-research/custom_motion">code</a>]
-
   </div>
 </article>
 
