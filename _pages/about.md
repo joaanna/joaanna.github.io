@@ -49,7 +49,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
         <div class="pub_text">
             <h3 class="papertitle">Disentangling visual and written concepts in CLIP</h3>
             <h4 class="authors" style="font-weight: normal;">
-                 <b>Joanna Materzynska</b>, Antonio Torralba, David Bau
+                 <b>Joanna Materzyńska</b>, Antonio Torralba, David Bau
             </h4>
             <p class="conference">CVPR 2022 <b>(Oral)</b></p>
             [<a href="https://arxiv.org/abs/2206.07835">paper</a>]
@@ -57,19 +57,33 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
         </div>
     </article>
 
-<article style="display: flex; align-items: center; margin-bottom: 20px;">
-    <a style="margin-right: 15px;">
-        <img src="images/reenacting.png" style="width: 30%; height: auto; background-color: transparent;">
-    </a>
-    <div>
-        <h3>Re-enacting video shots with fictional characters</h3>
-        <h4 style="font-weight: normal;">
-            <b>Joanna Materzynska</b>, David Bau, Antonio Torralba
+
+    <article class="pub">
+        <a class="pub_image"><img src="images/erasing.png" style="background-color: transparent;"></a>
+             <div class="pub_text">
+            <h3 class="papertitle">Erasing Concepts from Diffusion Models</h3>
+            <h4 class="authors" style="font-weight: normal;">
+            <b>Joanna Materzyńska</b>, Rohit Gandikota*, Jaden Fiotto-Kaufman, David Bau
         </h4>
-        <p>ICCV 2021 CVEU Workshop (Spotlight)</p>
-        [<a href="https://cveu.github.io/src/re_enacting.pdf">paper</a>]
+        <p>ICCV 2023 </p>
+        [<a href="https://arxiv.org/pdf/2303.07345">paper</a>]
+        [<a href="https://github.com/rohitgandikota/erasing">code</a>]
     </div>
-</article>
+    </article>
+
+
+
+<article class="pub">
+        <a class="pub_image"><img src="images/reenacting.png" style="background-color: transparent;"></a>
+        <div class="pub_text">
+            <h3 class="papertitle">Re-enacting video shots with fictional characters</h3>
+            <h4 class="authors" style="font-weight: normal;">
+                 <b>Joanna Materzynska</b>, David Bau, Antonio Torralba
+            </h4>
+            <p class="conference">ICCV 2021 CVEU Workshop (Spotlight) </p>
+            [<a href="https://cveu.github.io/src/re_enacting.pdf">paper</a>]
+        </div>
+    </article>
 
     
 
