@@ -45,7 +45,7 @@ Frontiers in Controllable Video Generation](https://sites.google.com/view/cvgicm
 <div id="publications">
 <article class="pub">
   <a classa="pub_image">
-    <img src="images/motion.png" alt="NewMove: Customizing text-to-video models with novel motions" style="background-color: transparent;">
+    <img src="images/motion.png" alt="" style="background-color: transparent;">
   </a>
   <div class="pub_text">
     <h3 class="papertitle">NewMove: Customizing text-to-video models with novel motions</h3>
