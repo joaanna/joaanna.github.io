@@ -12,7 +12,7 @@ I am pursuing doctoral studies at the Electrical Engineering and Computer Scienc
 
 Before embarking on my PhD journey, I completed undergraduate studies in Mathematics at the University of Vienna and The Autonomous University of Barcelona. Following this, I gained industry exposure as an AI Engineer at Twenty Billion Neurons, which was subsequently acquired by Qualcomm. Furthering my academic pursuits, I completed a Master of Science (MSc) degree in Computer Science from the University of Oxford and had the opportunity to contribute as a research intern at the Torr Vision Group.
 
-In addition to my academic and professional commitments, I am actively engaged in the academic community. I serve as a reviewer for several esteemed conferences and journals, including ICCV (2021, 2023), CVPR (2022–2025), ICLR (2022), NeurIPS (2021), ACM FAccT (2024), TPAMI, and IJCV. Furthermore, I co-organize workshops at major conferences, such as [CVG at ICML 2024](https://sites.google.com/view/cvgicml2024) and MIV at CVPR 2025.
+In addition to my academic and professional commitments, I am actively engaged in the academic community. I serve as a reviewer for several esteemed conferences and journals, including ICCV (2021, 2023), CVPR (2022–2025), ICLR (2022), NeurIPS (2021), ACM FAccT (2024), TPAMI, and IJCV. Furthermore, I co-organize workshops at major conferences, such as [CVG at ICML 2024](https://sites.google.com/view/cvgicml2024) and MIV at CVPR 2025. I have also been co-orgnizing the [MIT Vision and Graphic Seminar](https://sites.google.com/view/visionseminar) since 2022.
 
 ------------------
 # News
