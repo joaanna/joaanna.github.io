@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing doctoral studies at the Electrical Engineering and Computer Science (EECS) Department at MIT, under the supervision of Prof. Antonio Torralba. My research interests are primarily focused on interpretability and generative AI. Check out my [publications](https://joaanna.github.io/publications/)!
+I am pursuing doctoral studies at the Electrical Engineering and Computer Science (EECS) Department at MIT, under the supervision of Prof. Antonio Torralba. My research interests are primarily focused on interpretability and generative AI. 
 
 Before embarking on my PhD journey, I completed undergraduate studies in Mathematics at the University of Vienna and The Autonomous University of Barcelona. Following this, I gained industry exposure as an AI Engineer at Twenty Billion Neurons, which was subsequently acquired by Qualcomm. Furthering my academic pursuits, I completed a Master of Science (MSc) degree in Computer Science from the University of Oxford and had the opportunity to contribute as a research intern at the Torr Vision Group.
 
