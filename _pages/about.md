@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing doctoral studies at the Electrical Engineering and Computer Science (EECS) Department at MIT, under the supervision of Prof. Antonio Torralba. My research interests are primarily focused on interpretability and generative AI. 
+I am currently a doctoral student in the Electrical Engineering and Computer Science (EECS) Department at MIT, advised by Prof. Antonio Torralba. My research focuses on interpretability and generative AI.
 
-Before embarking on my PhD journey, I completed undergraduate studies in Mathematics at the University of Vienna and The Autonomous University of Barcelona. Following this, I gained industry exposure as an AI Engineer at Twenty Billion Neurons, which was subsequently acquired by Qualcomm. Furthering my academic pursuits, I completed a Master of Science (MSc) degree in Computer Science from the University of Oxford and had the opportunity to contribute as a research intern at the Torr Vision Group.
+Prior to my PhD, I earned a Bachelor's degree in Mathematics from the University of Vienna and the Autonomous University of Barcelona. I then worked as an AI Engineer at Twenty Billion Neurons, later acquired by Qualcomm. I went on to complete an MSc in Computer Science at the University of Oxford, where I also contributed as a research intern at the Torr Vision Group.
 
 In addition to my academic and professional commitments, I am actively engaged in the academic community. I serve as a reviewer for several esteemed conferences and journals, including ICCV (2021, 2023), CVPR (2022–2025), ICLR (2022), NeurIPS (2021), ACM FAccT (2024), TPAMI, and IJCV. Furthermore, I co-organize workshops at major conferences, such as [CVG at ICML 2024](https://sites.google.com/view/cvgicml2024) and MIV at CVPR 2025. I have also been co-orgnizing the [MIT Vision and Graphic Seminar](https://sites.google.com/view/visionseminar) since 2022.
 
